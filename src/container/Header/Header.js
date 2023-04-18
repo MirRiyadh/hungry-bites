@@ -14,7 +14,7 @@ const Header = () => {
           aliquam amet tellus{" "}
         </p>
         <button type="button" className="custom__button">
-          Explore Menu
+          Explore Our Menu
         </button>
       </div>
 
