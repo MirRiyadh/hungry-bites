@@ -5,4 +5,9 @@
 .app_header-h1 {
   font-family: var(--font-base);
   color: var(--color-golden);
+  background-color: red;
+}
+
+.app_wrapper_img {
+  color: white;
 }
