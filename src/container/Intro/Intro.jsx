@@ -4,7 +4,7 @@ import './Intro.css';
 
 const Intro = () => (
   <div>
-    Intro
+    This is intro page
   </div>
 );
 
