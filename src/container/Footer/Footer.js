@@ -4,7 +4,7 @@ import './Footer.css';
 
 const Footer = () => (
   <div>
-    Footer
+    this is footer page
   </div>
 );
 
