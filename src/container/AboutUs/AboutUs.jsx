@@ -8,6 +8,7 @@ const AboutUs = () => (
     <div className="app_aboutus-overlay flex__center">
       <img src={images.G} alt="letter G" />
     </div>
+
     <div className="app_aboutus-content flex__center">
       <div className="app_aboutus-content_about">
         <h1 className="headtext__cormorant">About Us</h1>
@@ -20,6 +21,10 @@ const AboutUs = () => (
         <button type="button" className="custom__button">
           Know More
         </button>
+      </div>
+
+      <div className="app_aboutus-content_knife flex__center">
+        <img src={images.knife} alt="kinfe" />
       </div>
     </div>
   </div>
