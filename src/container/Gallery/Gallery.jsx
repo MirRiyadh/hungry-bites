@@ -4,7 +4,8 @@ import './Gallery.css';
 
 const Gallery = () => (
   <div>
-    Gallery
+    <h1>Gallery</h1>
+    
   </div>
 );
 
