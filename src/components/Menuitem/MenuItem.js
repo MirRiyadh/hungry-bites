@@ -3,7 +3,7 @@ import React from 'react';
 const MenuItem = () => {
   return (
     <div>
-      this is menu item
+       adding menu items here
     </div>
   );
 };
