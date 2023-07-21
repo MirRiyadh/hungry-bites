@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
-import './Newsletter.css';
+import "./Newsletter.css";
 
-const Newsletter = () => (
-  <div>
-    Newsletter and signup
-  </div>
-);
+const Newsletter = () => <div>Newsletter and signup page</div>;
 
 export default Newsletter;
