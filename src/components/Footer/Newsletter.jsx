@@ -4,7 +4,7 @@ import './Newsletter.css';
 
 const Newsletter = () => (
   <div>
-    Newsletter
+    Newsletter and signup
   </div>
 );
 
