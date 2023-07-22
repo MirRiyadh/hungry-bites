@@ -1,9 +1,15 @@
-import React from 'react';
+import React from "react";
 
 const MenuItem = () => {
   return (
     <div>
-       adding menu items here
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
     </div>
   );
 };
