@@ -11,8 +11,7 @@ const Header = () => {
         <h1 className="app_header-h1">The Key To Fine Dining</h1>
         <p className="p__opensans" style={{ margin: "2rem 0" }}>
           Sit tellus lobortis sed senectus vivamus molestie. Condimentum
-          volutpat morbi facilisis quam scelerisque sapien. Et, penatibus
-          aliquam amet tellus{" "}
+          volutpat morbi facilisis tellus{" "}
         </p>
         <button type="button" className="custom__button">
           Explore Our Menu
