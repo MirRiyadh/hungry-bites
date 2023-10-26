@@ -1,5 +1,5 @@
 import React from "react";
 
-const FindUs = () => <div>FindUs page is here</div>;
+const FindUs = () => <div><h1>this is find us page</h1></div>;
 
 export default FindUs;
