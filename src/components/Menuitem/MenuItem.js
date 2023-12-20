@@ -4,11 +4,11 @@ const MenuItem = () => {
   return (
     <div>
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>test 1</li>
+        <li>test 2</li>
+        <li>test 3</li>
+        <li>test 4</li>
+        <li>test 5</li>
       </ul>
     </div>
   );
