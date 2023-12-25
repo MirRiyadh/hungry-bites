@@ -8,9 +8,7 @@ const MenuItem = () => {
         <li>test 2</li>
         <li>test 3</li>
         <li>test 4</li>
-        <li>test 5</li>
-        <li>test 6</li>
-        <li>test 7</li>
+        
       </ul>
     </div>
   );
