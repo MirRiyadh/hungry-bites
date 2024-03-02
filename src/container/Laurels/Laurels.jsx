@@ -4,7 +4,8 @@ import './Laurels.css';
 
 const Laurels = () => (
   <div>
-    Laurels is best chef in the world
+   <h1> Laurels is best chef in the world </h1>
+    
   </div>
 );
 
